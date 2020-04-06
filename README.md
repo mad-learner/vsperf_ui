@@ -12,5 +12,7 @@ python3 manage.py createsuperuser
 # run following cmd to your terminal
 
 python3 manage.py makemigrations
+
 python3 manage.py migrate
+
 python3 manage.py runserver
